@@ -1,39 +1,34 @@
 # Little Lemon Restaurant - Online Booking Feature
 
-### Current Scenario
-The restaurant currently relies on a manual booking process where customers must call the restaurant or visit in person to make a reservation. This process is time-consuming and inconvenient, especially for busy professionals like Jennifer Lawson, who have hectic schedules and limited time.
+## Project Overview
 
-### Challenges Faced by Customers
-- **Inconvenience**: Customers need to call during business hours or visit the restaurant in person to make a reservation, leading to long waiting times and frustration.
-- **Uncertainty**: Without real-time information on table availability, customers face uncertainty about their desired reservation time, leading to potential double-bookings or no availability.
-- **Limited Booking Hours**: Customers cannot make reservations outside of business hours, restricting their ability to plan ahead.
-- **Alignment with Restaurant Hours**: Busy individuals, like Jennifer Lawson, may struggle to align their schedules with the restaurant’s booking hours, leading to missed reservation opportunities.
+The **Little Lemon Restaurant** online booking feature automates the restaurant reservation process, allowing customers to easily make reservations through a user-friendly web interface. The feature was developed to address the challenges faced by both customers and the restaurant staff in managing reservations.
 
-### Operational Challenges for the Restaurant
-- **Time-Consuming**: Staff spends considerable time handling reservations manually, which could be better spent on providing excellent customer service.
-- **Error-Prone**: Manual entry increases the risk of errors such as double-bookings or incorrect entries, leading to customer dissatisfaction.
-- **Data Management**: Lack of an automated system makes it difficult to collect and analyze data on customer preferences and peak booking times, hindering data-driven decision-making.
+### Live Demo
+Explore the live high-fidelity prototype on Figma:
+[Live Demo](https://www.figma.com/proto/znwTLAbGSDrflAm2Xy5rtm/reserve-a-table-feature---high-fidelity-protoype?node-id=315-615&t=beoWf1kmVB4thgYx-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A36)
 
-## Solution
-Implementing an online booking feature will address these challenges by providing a convenient, efficient, and reliable way for customers to make reservations. This will enhance the overall customer experience, improve operational efficiency, and reduce the risk of errors, ultimately leading to increased customer satisfaction and loyalty.
+## Features
 
-## Design Concepts and Features
+- **User-Friendly Interface:** Simple, intuitive, and designed to streamline the reservation process.
+- **Real-Time Table Availability:** Allows customers to view available tables and reserve them in real-time.
+- **Table Reservation Component:** Lets users choose their preferred seating area and make special requests.
 
-- **'Make a Reservation' Button**: Added to the Header for easy access to the booking system from any page within the app.
-- **User-Friendly Booking System**: Designed to streamline the reservation process, making it intuitive and easy to use.
-- **Table Reservation Component**: Allows customers to select their preferred seating area and make special requests.
+## Challenges Addressed
 
-## Links to Design Assets
+1. **Customer Inconvenience:** The online system eliminates the need to call or visit the restaurant, reducing waiting times and improving convenience.
+2. **Uncertainty:** Real-time table availability helps customers plan with confidence and reduces the likelihood of double bookings.
+3. **Operational Efficiency:** Automated reservations allow staff to focus on customer service while reducing manual entry errors.
+4. **Data-Driven Decisions:** The system captures and analyzes data on customer preferences and booking trends, allowing for better decision-making.
 
-- [Persona in Figma](https://www.figma.com/board/wg7GzT6Id4IdJ4r0gktYx2/User-Persona---Jennifer-LAWSON?t=aG5cJlVBVo3Vz9n9-1
-)
-- [Journey Map in Figma](https://www.figma.com/board/EOrmXG3yk1rn0605wn4rHu/User-Journey-Map---Perform-a-on-line-reservation---Jennifer-LAWSON?node-id=0-1&t=aG5cJlVBVo3Vz9n9-1
-)
-- [Wireframes in Figma](https://www.figma.com/design/pDvsDNlBjdbTbV3AkNodFL/reserve-a-table-feature---low-fidelity-wireframes-(1)?t=aG5cJlVBVo3Vz9n9-1
-)
-- [High-Fidelity Prototype in Figma](https://www.figma.com/design/znwTLAbGSDrflAm2Xy5rtm/reserve-a-table-feature---high-fidelity-protoype?node-id=0-1&t=aG5cJlVBVo3Vz9n9-1
-)
+## Design Concepts
 
----
+Check out the design assets used in this project:
+- [User Persona](https://www.figma.com/board/wg7GzT6Id4IdJ4r0gktYx2/User-Persona---Jennifer-LAWSON?t=aG5cJlVBVo3Vz9n9-1)
+- [User Journey Map](https://www.figma.com/board/EOrmXG3yk1rn0605wn4rHu/User-Journey-Map---Perform-a-on-line-reservation---Jennifer-LAWSON?node-id=0-1&t=aG5cJlVBVo3Vz9n9-1)
+- [Low-Fidelity Wireframes](https://www.figma.com/design/pDvsDNlBjdbTbV3AkNodFL/reserve-a-table-feature---low-fidelity-wireframes-(1)?t=aG5cJlVBVo3Vz9n9-1)
+- [High-Fidelity Prototype](https://www.figma.com/proto/znwTLAbGSDrflAm2Xy5rtm/reserve-a-table-feature---high-fidelity-protoype?node-id=315-615&t=beoWf1kmVB4thgYx-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A36)
 
-Feel free to explore the design and provide feedback or suggestions for further improvements.
+**Contact:**
+For any queries or suggestions, feel free to reach out via email: [yashaswiniurala25@gmail.com](mailto:yashaswiniurala25@gmail.com)
+
